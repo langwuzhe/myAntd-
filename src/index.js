@@ -66,7 +66,7 @@ import {render} from 'react-dom';
 import { Provider } from 'react-redux';
 import { store } from './components/redux/Store';
 /*import ReduxGo from './components/redux/components/ReduxGo';
-import App from './components/app';
+import App from './components/app';123
 import EditableTable from './components/EditableTable';
 import SelectedTable from './components/SelectedTable';*/
 import AntTest from './components/AntTest';
